@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Engineering with AWS services
 - 📫 How to reach me You can reach me over email, linkedIn ,  or  phone nnumber. My contact details are provided below:
 - E: avitabayans@gmail.com
-- M: 8822788156,8095802367
+- M: 8095802367
 - LinkedIn: https://www.linkedin.com/in/avitabayansarmah/
 
 <!---
