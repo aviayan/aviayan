@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Airflow with Docker, Spark, python and machine learning 
 - 💞️ I’m looking to collaborate on Data Engineering with AWS services
 - 📫 How to reach me You can reach me over email, linkedIn ,  or  phone nnumber. My contact details are provided below:
-- E: avitabayans@gmail.com
+- E: sarmahavitabayan@gmail.com
 - M: 8095802367
 - LinkedIn: https://www.linkedin.com/in/avitabayansarmah/
 
